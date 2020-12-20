@@ -1,0 +1,9 @@
+[submodule "lottery-api"]
+	path = lottery-api
+	url = https://github.com/limvus/lottery-api.git
+[submodule "lottery-frontend"]
+	path = lottery-frontend
+	url = https://github.com/limvus/lottery-frontend.git
+[submodule "lottery-backend"]
+	path = lottery-backend
+	url = https://github.com/limvus/lottery-backend.git
