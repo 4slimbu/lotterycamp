@@ -17,9 +17,13 @@ This is a fun application where lottery is run every minute and user can partici
 - Bot Users
 
 ## Installation
-- Clone the project along with sub-modules:
+- Clone the repo
 ```
+# clone the project along with sub-modules:
 git clone --recurse-submodules https://github.com/limvus/lotterycamp.git
+
+# update project with remote repo in future
+git pull --recurse-submodules
 ```
 - Follow installation guide for each sub-modules (lottery-api, lottery-backend, lottery-frontend).
 
