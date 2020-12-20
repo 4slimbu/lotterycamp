@@ -25,7 +25,10 @@ git clone --recurse-submodules https://github.com/limvus/lotterycamp.git
 # update project with remote repo in future
 git pull --recurse-submodules
 ```
-- Follow installation guide for each sub-modules (lottery-api, lottery-backend, lottery-frontend).
+- Follow installation guide for each sub-modules
+    - [lottery-api](https://github.com/limvus/lottery-api/tree/d851cffad96cacf2b2814f8b7eab92287c2ccdd0)
+    - [lottery-backend](https://github.com/limvus/lottery-backend/tree/a7cb0cab2e3bfd5fd73b96b7447c5238efda6812)
+    - [lottery-frontend](https://github.com/limvus/lottery-frontend/tree/e409f081cb73de1a55de1064aa6a1a0907a021b5)
 
 ## Contribution
 If you want to contribute, just fork the repository and play around, create 
